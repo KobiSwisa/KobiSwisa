@@ -14,7 +14,7 @@ I'm a passionate software engineer with a strong background in web development. 
 - 📚 Relevant coursework: Data Structures, Algorithms, Web Development
 
 ## Projects
-- 🌟 **Project 1:** Data Science - Flights delay prediction (Python). [Link to Repository]([https://github.com/example/project1](https://github.com/KobiSwisa/Flights-Delay-Prediction-Data-Science-Project))
+- 🌟 **Project 1:** Data Science - Flights delay prediction (Python). [Link to Repository]([https://github.com/example/project1](https://github.com/KobiSwisa/Flights-Delay-Prediction-Data-Science-Project)
 
 ## Skills
 - 💻 JavaScript, Python, HTML/CSS, SQL
